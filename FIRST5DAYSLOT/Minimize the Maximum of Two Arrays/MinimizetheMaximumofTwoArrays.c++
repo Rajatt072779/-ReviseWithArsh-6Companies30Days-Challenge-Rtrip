@@ -1,6 +1,6 @@
 #include <climits>
 #include <cstdint>
-#include <iostream> //(if want to check through output)
+//#include <iostream> //(if want to check through output)
 class Solution
 {
     long long getGCD(long long a, long long b)
@@ -42,7 +42,7 @@ public:
         return static_cast<int>(ans);
     }
 };
-int main()
+/*int main()
 {
     Solution solution;
 
@@ -59,4 +59,4 @@ int main()
     // Add more test cases as needed...
 
     return 0;
-} /*to check through output?*/
+} to check through output*/
