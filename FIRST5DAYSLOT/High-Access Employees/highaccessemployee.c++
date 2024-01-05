@@ -4,7 +4,7 @@
 #include <unordered_map>
 #include <algorithm>
 
-using namespace std; npt needed for testing*/
+using namespace std; not needed for testing*/
 
 class Solution
 {
